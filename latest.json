@@ -1,0 +1,16 @@
+{
+ "latest_picks": "2026-11-03",
+ "latest_results": "2026-11-02",
+ "days": {
+  "2026-11-02": [
+   "picks",
+   "results"
+  ],
+  "2026-11-03": [
+   "picks",
+   "research"
+  ]
+ },
+ "encrypted": true,
+ "readme": "picks/日付.json＝その日の5本と3連単120通りの見込み、research/日付.json＝5本の選手ごとの数字、results/日付.json＝5本の結果。中身は openssl enc -aes-256-cbc -pbkdf2 で暗号化（.json.enc）"
+}
