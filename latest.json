@@ -1,5 +1,5 @@
 {
- "latest_picks": "2026-11-13",
+ "latest_picks": "2026-11-14",
  "latest_results": "2026-11-13",
  "days": {
   "2026-11-02": [
@@ -54,6 +54,10 @@
    "picks",
    "research",
    "results"
+  ],
+  "2026-11-14": [
+   "picks",
+   "research"
   ]
  },
  "encrypted": true,
