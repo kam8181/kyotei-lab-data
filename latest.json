@@ -1,12 +1,7 @@
 {
- "latest_picks": "2026-11-19",
+ "latest_picks": "2026-11-20",
  "latest_results": "2026-11-19",
  "days": {
-  "2026-11-05": [
-   "picks",
-   "research",
-   "results"
-  ],
   "2026-11-06": [
    "picks",
    "research"
@@ -69,6 +64,10 @@
    "picks",
    "research",
    "results"
+  ],
+  "2026-11-20": [
+   "picks",
+   "research"
   ]
  },
  "encrypted": true,
